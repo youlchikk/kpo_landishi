@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(inc argc, char **argv){
+	printf("Hello Git!\n");
+	return 0;
+}
