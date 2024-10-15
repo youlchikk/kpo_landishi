@@ -1,0 +1,4 @@
+Atomova: 19: 50: female
+Mahonina: 22: 50: male
+Petrov: 20: 150: male
+Svirzhevskaya: 21: 70: female

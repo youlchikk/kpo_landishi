@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sort -n -k2 basa.txt
+
+echo "Фамилия самого молодого сотрудника:"
+awk '{print $1; exit}' basa.txt

@@ -1,0 +1,56 @@
+I'm like Linux
+    1  libreoffice--writer
+    2  libreoffice --writer
+    3  libreoffice lab1.odt
+    4  libreoffice --writer
+    5  libreoffice lab1.odt
+    6  cd ../..
+    7  ls
+    8  cd /boot/
+    9  ls
+   10  cd ../home
+   11  echo "I'm like Linux!"
+   12  history
+   13  cd Desktop
+   14  cd desktop
+   15  mkdir folder; cd folder
+   16  cd Desktop
+   17  mkdir folder; cd folder
+   18  touch file{1..3}.txt
+   19  ls
+   20  rm file3.txt
+   21  trash file2.txt
+   22  sudo apt tnstall trash -cli
+   23  123
+   24  sudo apt tnstall trash -cli
+   25  rm file3.txt
+   26  mkdir folder; cd folder
+   27  rm file3.txt
+   28  cd folder
+   29  touch file{1..3}.txt
+   30  ls
+   31  rm file3.txt
+   32  trash file2.txt
+   33  sudo apt install trash-cli
+   34  123
+   35  sudo apt install trash-cli
+   36  sudo echo "dns-nameservers 8.8.8.8" >> /etc/network/interfaces
+   37  sudo chmod -R 755 /etc/network/interfaces
+   38  sudo apt-get install texinfo
+   39  sudo apt update && sudo apt upgrade
+   40  sudo apt update 
+   41  ping -c 2 8.8.8.8
+   42  sudo nano /etc/resolv.conf
+   43  sudo apt update 
+   44  sudo apt install trash-cli
+   45  mkdir folder; cd folder
+   46  cd folder
+   47  touch file{1..3}.txt
+   48  ls
+   49  rm file3.txt
+   50  trash file2.txt
+   51  echo "I
+   52  cd folder
+   53  echo "I'm like Linux" > file1.txt
+   54  cat file1.txt
+   55  history >> file1.txt

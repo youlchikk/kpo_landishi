@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/youlchikk/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Telegram%20Desktop/lab_1%20(2).docx" added="2024-09-10T16:21:51.447311Z" modified="2024-09-10T16:21:52.114920Z" visited="2024-09-10T16:21:51.447311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-09-10T16:21:52.114918Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-09-10%2022-04-36.png" added="2024-09-10T19:04:36.999221Z" modified="2024-09-10T19:04:36.999224Z" visited="2024-09-10T19:04:36.999221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-09-10T19:04:36.999222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-09-10%2022-05-14.png" added="2024-09-10T19:05:14.133479Z" modified="2024-09-10T19:05:14.133481Z" visited="2024-09-10T19:05:14.133479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-09-10T19:05:14.133480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/lab1.rtf" added="2024-09-10T19:06:59.840703Z" modified="2024-09-10T19:07:41.441707Z" visited="2024-09-10T19:06:59.840712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/rtf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-09-10T19:07:41.441705Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/lab1" added="2024-09-10T19:07:41.126257Z" modified="2024-09-10T19:07:41.126260Z" visited="2024-09-10T19:07:41.126258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-09-10T19:07:41.126259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/lab1.odt" added="2024-09-10T19:07:41.901002Z" modified="2024-10-08T09:52:13.835871Z" visited="2024-09-10T19:07:41.901003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-10-08T09:52:13.835870Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab1.odt" added="2024-09-11T11:22:56.632382Z" modified="2024-09-11T12:09:05.374261Z" visited="2024-09-11T11:22:56.632383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-09-11T12:09:05.374259Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/folder/file1.txt" added="2024-09-17T10:25:51.349312Z" modified="2024-09-17T10:28:30.883078Z" visited="2024-09-17T10:25:51.349312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-17T10:28:30.883075Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/task1" added="2024-09-24T15:34:54.528140Z" modified="2024-09-24T15:34:54.817037Z" visited="2024-09-24T15:34:54.528141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:34:54.817034Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script1.zip" added="2024-09-24T15:35:41.812222Z" modified="2024-09-24T15:35:41.812227Z" visited="2024-09-24T15:35:41.812223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-24T15:35:41.812225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/file1.txt" added="2024-09-24T15:39:33.828795Z" modified="2024-09-24T15:42:46.444122Z" visited="2024-09-24T15:39:33.828796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T15:42:46.444117Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/file2.txt" added="2024-09-24T15:39:47.603880Z" modified="2024-09-24T15:44:59.885905Z" visited="2024-09-24T15:39:47.603881Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T15:44:59.885902Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script1" added="2024-09-24T15:40:38.197808Z" modified="2024-09-24T15:43:59.451352Z" visited="2024-09-24T15:40:38.197809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-09-24T15:40:38.197811Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:43:59.451351Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script2" added="2024-09-24T15:44:36.046731Z" modified="2024-09-24T15:44:36.336004Z" visited="2024-09-24T15:44:36.046732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:44:36.336003Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script3" added="2024-09-24T15:47:59.194408Z" modified="2024-09-24T15:47:59.494549Z" visited="2024-09-24T15:47:59.194409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:47:59.494547Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/list.txt" added="2024-09-24T15:48:57.992298Z" modified="2024-09-24T15:54:17.854118Z" visited="2024-09-24T15:48:57.992299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T15:54:17.854114Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script4" added="2024-09-24T15:52:41.998463Z" modified="2024-09-24T15:53:53.218872Z" visited="2024-09-24T15:52:41.998464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:53:53.218871Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-09-24T15:53:25.737254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script5" added="2024-09-24T15:55:44.154520Z" modified="2024-09-24T15:55:44.435216Z" visited="2024-09-24T15:55:44.154522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T15:55:44.435215Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script6" added="2024-09-24T15:58:52.998284Z" modified="2024-09-24T16:06:53.465419Z" visited="2024-09-24T15:58:52.998286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T16:06:53.465417Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/basa.txt" added="2024-09-24T16:00:52.046909Z" modified="2024-09-24T18:22:58.910006Z" visited="2024-09-24T16:00:52.046910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T18:22:58.910000Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/basa2.txt" added="2024-09-24T16:02:26.202055Z" modified="2024-09-24T16:02:26.367318Z" visited="2024-09-24T16:02:26.202056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T16:02:26.367312Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script7" added="2024-09-24T16:05:43.086382Z" modified="2024-09-24T16:07:11.853885Z" visited="2024-09-24T16:05:43.086383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T16:07:11.853884Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script8" added="2024-09-24T16:09:57.512672Z" modified="2024-09-24T18:05:37.329498Z" visited="2024-09-24T16:09:57.512673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:05:22.591391Z" count="9"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-09-24T18:05:37.329492Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script9" added="2024-09-24T17:59:08.493157Z" modified="2024-09-24T18:05:45.689071Z" visited="2024-09-24T17:59:08.493158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:05:45.689070Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/t11.txt" added="2024-09-24T18:05:30.563564Z" modified="2024-09-24T18:11:31.187935Z" visited="2024-09-24T18:05:30.563565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T18:11:31.187930Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script10" added="2024-09-24T18:08:17.654497Z" modified="2024-09-24T18:10:26.874907Z" visited="2024-09-24T18:08:17.654497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:10:26.874905Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/sorted.txt" added="2024-09-24T18:11:09.036450Z" modified="2024-09-24T18:12:46.379229Z" visited="2024-09-24T18:11:09.036451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T18:12:46.379223Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script11" added="2024-09-24T18:20:27.811604Z" modified="2024-09-24T18:21:51.712813Z" visited="2024-09-24T18:20:27.811605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:21:51.712811Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script12" added="2024-09-24T18:22:21.069325Z" modified="2024-09-24T18:22:22.991341Z" visited="2024-09-24T18:22:21.069328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:22:22.991339Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script13" added="2024-09-24T18:24:30.172974Z" modified="2024-09-24T18:24:30.453702Z" visited="2024-09-24T18:24:30.172975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:24:30.453701Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script14" added="2024-09-24T18:25:40.104256Z" modified="2024-09-24T18:25:40.388857Z" visited="2024-09-24T18:25:40.104257Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:25:40.388856Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/input.txt" added="2024-09-24T18:26:19.287488Z" modified="2024-09-24T18:26:19.287493Z" visited="2024-09-24T18:26:19.287489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T18:26:19.287491Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/output.txt" added="2024-09-24T18:26:53.752208Z" modified="2024-09-24T18:26:53.752212Z" visited="2024-09-24T18:26:53.752209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-09-24T18:26:53.752210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script15" added="2024-09-24T18:28:06.220150Z" modified="2024-09-24T18:28:06.499329Z" visited="2024-09-24T18:28:06.220151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:28:06.499327Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script16" added="2024-09-24T18:31:40.354194Z" modified="2024-09-24T18:34:34.204663Z" visited="2024-09-24T18:31:40.354195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:34:34.204661Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-09-24T18:34:20.789538Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script17" added="2024-09-24T18:33:34.974251Z" modified="2024-09-24T18:33:35.255764Z" visited="2024-09-24T18:33:34.974252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:33:35.255762Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12(2)" added="2024-09-24T18:35:17.728343Z" modified="2024-09-24T18:35:17.728682Z" visited="2024-09-24T18:35:17.728345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-24T18:35:17.728678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12(3)" added="2024-09-24T18:35:27.037431Z" modified="2024-09-24T18:35:27.037435Z" visited="2024-09-24T18:35:27.037432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-24T18:35:27.037433Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/common_script" added="2024-09-24T18:36:21.131606Z" modified="2024-09-24T18:36:21.422348Z" visited="2024-09-24T18:36:21.131607Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:36:21.422346Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab122/common_script" added="2024-09-24T18:37:52.494599Z" modified="2024-09-24T18:37:52.789808Z" visited="2024-09-24T18:37:52.494599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:37:52.789806Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab123/run_scripts" added="2024-09-24T18:38:44.265443Z" modified="2024-09-24T18:38:44.551833Z" visited="2024-09-24T18:38:44.265443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:38:44.551831Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script18" added="2024-09-24T18:42:37.649322Z" modified="2024-09-24T18:42:37.931539Z" visited="2024-09-24T18:42:37.649324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:42:37.931537Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/script19" added="2024-09-24T18:51:26.423250Z" modified="2024-09-24T18:51:26.711472Z" visited="2024-09-24T18:51:26.423261Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-24T18:51:26.711470Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13" added="2024-09-25T11:44:15.902285Z" modified="2024-09-25T11:44:15.902290Z" visited="2024-09-25T11:44:15.902286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-09-25T11:44:15.902288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/yesno" added="2024-09-30T19:15:21.654333Z" modified="2024-10-01T08:46:24.487989Z" visited="2024-09-30T19:15:21.654333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-01T08:46:24.487988Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Telegram%20Desktop/Lab1_3.zip" added="2024-09-30T20:00:11.359545Z" modified="2024-09-30T20:30:37.172093Z" visited="2024-09-30T20:00:11.359545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-09-30T20:30:37.172092Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task1-2" added="2024-09-30T20:04:20.970528Z" modified="2024-09-30T20:10:37.805399Z" visited="2024-09-30T20:04:20.970529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-30T20:10:37.805397Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task12" added="2024-09-30T20:12:57.788826Z" modified="2024-10-01T08:49:00.543600Z" visited="2024-09-30T20:12:57.788826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-01T08:49:00.543599Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task13" added="2024-09-30T20:20:25.223590Z" modified="2024-10-01T08:50:37.225192Z" visited="2024-09-30T20:20:25.223591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-01T08:50:37.225176Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task14" added="2024-09-30T20:23:58.707635Z" modified="2024-10-01T08:52:28.206953Z" visited="2024-09-30T20:23:58.707636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-01T08:52:28.206951Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-01T07:00:35.215566Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task2" added="2024-09-30T20:26:04.954664Z" modified="2024-10-02T13:19:30.267792Z" visited="2024-09-30T20:26:04.954665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-02T13:19:30.267791Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task3" added="2024-09-30T20:43:05.241135Z" modified="2024-10-02T13:22:04.593881Z" visited="2024-09-30T20:43:05.241136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-02T13:22:04.593880Z" count="32"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-10-01T08:39:08.228864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task3.html" added="2024-10-01T06:50:15.651860Z" modified="2024-10-01T06:54:10.270547Z" visited="2024-10-01T06:50:15.651860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u&apos;" modified="2024-10-01T06:54:10.270544Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2024-10-02T13:43:30.184641Z" modified="2024-10-08T09:43:45.806416Z" visited="2024-10-02T13:43:30.184643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T09:43:45.806413Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pam.d/passwd" added="2024-10-08T09:31:25.675844Z" modified="2024-10-08T09:43:37.310494Z" visited="2024-10-08T09:31:25.675845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T09:43:37.310468Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd-" added="2024-10-08T09:43:25.726779Z" modified="2024-10-08T09:43:25.726783Z" visited="2024-10-08T09:43:25.726780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T09:43:25.726782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/test.txt" added="2024-10-08T15:25:29.934202Z" modified="2024-10-08T15:25:29.934206Z" visited="2024-10-08T15:25:29.934203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T15:25:29.934204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/file3.txt" added="2024-10-08T15:44:47.461633Z" modified="2024-10-08T15:57:12.164771Z" visited="2024-10-08T15:44:47.461634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T15:57:12.164765Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/file3" added="2024-10-08T15:57:05.510883Z" modified="2024-10-08T15:57:06.258057Z" visited="2024-10-08T15:57:05.510884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-08T15:57:06.258051Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/comp" added="2024-10-15T11:24:47.789385Z" modified="2024-10-15T11:24:47.789392Z" visited="2024-10-15T11:24:47.789386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-15T11:24:47.789387Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12.tar" added="2024-10-15T11:32:45.027613Z" modified="2024-10-15T11:32:45.340081Z" visited="2024-10-15T11:32:45.027614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2024-10-15T11:32:45.027619Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-15T11:32:45.340080Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/sync" added="2024-10-15T11:43:54.841608Z" modified="2024-10-15T11:53:52.287035Z" visited="2024-10-15T11:43:54.841608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-15T11:53:52.287033Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-10-15T11:53:21.011831Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

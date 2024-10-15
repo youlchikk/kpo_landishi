@@ -1,0 +1,27 @@
+#!/bin/bash
+
+get_currency_rate() {
+    case $1 in
+        "USD") currency="USD";;
+        "EUR") currency="EUR";;
+        "GBP") currency="GBP";;
+        "JPY") currency="JPY";;
+        "AUD") currency="AUD";;
+        *) zenity --error --text="Неверный выбор"; return;;
+    esac
+
+    rate=$(curl -s "https://api.exchangerate-api.com/v4/latest/$currency" | jq -r ".rates.BYN")
+    zenity --info --text="Курс $currency к BYN: $rate"
+}
+
+while true; do
+    choice=$(zenity --list --title="Выберите валюту для получения котировки" --column="Валюты" "USD" "EUR" "GBP" "JPY" "AUD" "Выход")
+
+    if [ "$choice" == "Выход" ]; then
+        break
+    elif [ -n "$choice" ]; then
+        get_currency_rate $choice
+    else
+        zenity --error --text="Вы не выбрали валюту!"
+    fi
+done

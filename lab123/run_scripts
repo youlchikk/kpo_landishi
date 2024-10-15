@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source ../lab12/common_script
+source ../lab122/common_script

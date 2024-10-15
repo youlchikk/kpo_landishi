@@ -1,0 +1,7 @@
+[Default Applications]
+text/html=firefox_firefox.desktop
+x-scheme-handler/tonsite=telegram-desktop_telegram-desktop.desktop
+
+[Added Associations]
+application/x-shellscript=vim.desktop;
+text/html=firefox_firefox.desktop;

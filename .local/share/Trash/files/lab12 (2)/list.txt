@@ -1,0 +1,4 @@
+./script3
+./script4
+./script1
+./script2

@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Функция для получения списка валют
+get_currency_list() {
+    echo "USD"
+    echo "EUR"
+    echo "GBP"
+    echo "JPY"
+    echo "AUD"
+}
+
+# Функция для получения котировки выбранной валюты
+get_currency_rate() {
+    currency=$1
+
+    # Используем API для получения курса валют
+    rate=$(curl -s "https://api.exchangerate-api.com/v4/latest/$currency" | jq -r ".rates.BYN")
+    zenity --info --text="Курс $currency к BYN: $rate"
+}
+
+# Основная программа
+currency=$(zenity --list --title="Выберите валюту" --column="Валюты" $(get_currency_list))
+
+if [ -n "$currency" ]; then
+    get_currency_rate $currency
+else
+    zenity --error --text="Вы не выбрали валюту!"
+fi

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+name=$(zenity --entry --title="Введите ваше имя" --text="Введите ваше имя:")
+
+if [ -z "$name" ]; then
+    zenity --error --text="Вы не ввели имя. Скрипт завершен."
+    exit 1
+fi
+
+profession=$(zenity --entry --title="Введите вашу профессию" --text="Введите вашу профессию:")
+
+if [ -z "$profession" ]; then
+    zenity --error --text="Вы не ввели профессию. Скрипт завершен."
+    exit 1
+fi
+
+zenity --info --text="Ваше имя: $name\nВаша профессия: $profession"
+
+echo "Ваше имя: $name   Ваша профессия: $profession"

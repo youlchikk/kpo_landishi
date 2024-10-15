@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sed -i 's/Sidorov/Mahonina/g' basa.txt
+sed -i 's/Nutrina/Svirzhevskaya/g' basa.txt
+
+echo "Фамилии заменены в файле basa.txt"

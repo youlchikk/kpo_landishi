@@ -1,0 +1,112 @@
+2024-09-10 19:05:23.718504 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b2dec(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:28.069609 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#41452(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:33.427017 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b2dec(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:35.539521 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b2464(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:35.919126 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c239d(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:37.426402 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b2dec(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:37.526342 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b2464(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:37.713308 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c239d(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:39.042325 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#f5059(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:39.432131 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#d019a(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:39.437180 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#01ca1(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:39.437617 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#0ae9b(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:40.626031 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#91aa8(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+
+2024-09-10 19:05:41.572841 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c14bc(null) failed
+	_TypeError: Null check operator used on a null value
+#0      SnapData.snap (package:app_center/snapd/snap_data.dart:41)
+#1      RatingsModel.build (package:app_center/ratings/ratings_model.dart:17)
+<asynchronous suspension>
+#2      FutureHandlerProviderElementMixin.handleFuture.<anonymous closure>.<anonymous closure> (package:riverpod/src/async_notifier/base.dart:348)
+<asynchronous suspension>
+

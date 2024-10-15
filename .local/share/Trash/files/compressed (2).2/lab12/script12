@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sort -n -k2 basa.txt
+
+echo "Зарплата самого молодого сотрудника:"
+awk '{print $3; exit}' basa.txt

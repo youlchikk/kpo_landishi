@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Установленные командные интерпритаторы:"
+which bash
+which sh
+which zsh
+which ksh
+which csh
+
+current_shell=$(echo $SHELL)
+
+echo "Текущий командный интерпретатор: $current_shell"

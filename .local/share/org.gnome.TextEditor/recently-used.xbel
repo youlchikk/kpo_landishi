@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/youlchikk/folder/file1.txt" added="2024-09-17T10:25:53.358452Z" modified="2024-09-24T15:43:39.733687Z" visited="2024-09-24T18:42:39.675537+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-09-24T15:43:39.733687Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/file1.txt" added="2024-09-24T15:39:37.289286Z" modified="2024-10-08T15:57:16.843529Z" visited="2024-10-08T18:57:12.402547+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843529Z" count="100"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/file2.txt" added="2024-09-24T15:39:51.289675Z" modified="2024-10-08T15:57:16.843561Z" visited="2024-10-08T18:57:12.399863+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843560Z" count="96"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/list.txt" added="2024-09-24T15:49:01.294374Z" modified="2024-10-08T15:57:16.843531Z" visited="2024-10-08T18:57:12.418438+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843530Z" count="75"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/basa.txt" added="2024-09-24T16:00:55.696668Z" modified="2024-10-08T15:57:16.843559Z" visited="2024-10-08T18:57:12.405381+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843559Z" count="71"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/basa2.txt" added="2024-09-24T16:02:29.297278Z" modified="2024-10-08T15:57:16.843548Z" visited="2024-10-08T18:57:12.408213+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843548Z" count="67"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/t11.txt" added="2024-09-24T18:05:33.730716Z" modified="2024-10-08T15:57:16.843549Z" visited="2024-10-08T18:57:12.416893+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843549Z" count="52"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/sorted.txt" added="2024-09-24T18:11:12.274600Z" modified="2024-10-08T15:57:16.843535Z" visited="2024-10-08T18:57:12.342060+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843534Z" count="49"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/input.txt" added="2024-09-24T18:26:22.264627Z" modified="2024-10-08T15:57:16.843562Z" visited="2024-10-08T18:57:12.411435+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843562Z" count="35"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab12/output.txt" added="2024-09-24T18:26:57.266706Z" modified="2024-10-08T15:57:16.843528Z" visited="2024-10-08T18:57:12.416181+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843527Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/lab13/task14" added="2024-10-01T07:00:38.896304Z" modified="2024-10-08T15:57:16.843526Z" visited="2024-10-08T18:57:12.444387+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843526Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2024-10-02T13:43:33.912818Z" modified="2024-10-08T15:57:16.843533Z" visited="2024-10-08T18:57:12.446481+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843533Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pam.d/passwd" added="2024-10-08T09:31:28.976289Z" modified="2024-10-08T15:57:16.843532Z" visited="2024-10-08T18:57:12.447574+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843532Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd-" added="2024-10-08T09:43:28.957872Z" modified="2024-10-08T15:57:16.843524Z" visited="2024-10-08T18:57:12.447127+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843522Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/test.txt" added="2024-10-08T15:25:33.425035Z" modified="2024-10-08T15:25:42.273607Z" visited="2024-10-08T18:25:30.053353+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:25:42.273607Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/youlchikk/dir/test.txt" added="2024-10-08T15:25:42.273599Z" modified="2024-10-08T15:57:16.843543Z" visited="2024-10-08T18:57:15.161621+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843542Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/file3.txt" added="2024-10-08T15:44:50.423482Z" modified="2024-10-08T15:57:16.843558Z" visited="2024-10-08T18:57:12.417700+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843558Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///home/youlchikk/dir/file3.txt" added="2024-10-08T15:44:58.152740Z" modified="2024-10-08T15:57:16.843545Z" visited="2024-10-08T18:57:15.152327+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843544Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/youlchikk/dir/file3" added="2024-10-08T15:57:08.428508Z" modified="2024-10-08T15:57:16.843546Z" visited="2024-10-08T18:57:12.418851+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-08T15:57:16.843546Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

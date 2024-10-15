@@ -1,0 +1,10 @@
+#!/bin/bash
+
+script_name="script3"
+
+if [[ -f "$script_name" ]]; then
+	echo "Файл $script_name найден. Выполняю..."
+	bash "$script_name"
+else
+	echo "Файл $script_name не найден."
+fi

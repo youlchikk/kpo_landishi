@@ -1,0 +1,22 @@
+#!/bin/sh
+
+dialog --title "YesNO" --yesno "Да или Нет?" 7 60
+case "$?" in
+   0)
+     dialog --yesno "Да? Вы уверены?" 7 60
+     case "$?" in
+       0) dialog --msgbox "Вы выбрали 'Да'" 7 60;;
+       1) dialog --msgbox "Вы выбрали 'Нет'" 7 60;;
+     esac
+     ;;
+   1)
+     dialog --yesno "Нет? Вы уверены?" 7 60
+     case "$?" in
+       0) dialog --msgbox "Вы выбрали 'Нет'" 7 60;;
+       1) dialog --msgbox "Вы выбрали 'Да'" 7 60;;
+     esac
+     ;;
+esac
+
+sleep 1
+exit 0

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+file1="basa.txt"
+file2="t11.txt"
+
+sort "$file1" | tr ' ' '\n' | sort | uniq > sorted_file1.txt
+sort "$file2" | tr ' ' '\n' | sort | uniq > sorted_file2.txt
+
+common_words=$(comm -12 sorted_file1.txt sorted_file2.txt | wc -w)
+
+echo "Количетсво общих слов в файлах $file1 и $file2: $common_words"

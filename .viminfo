@@ -1,0 +1,299 @@
+# Этот viminfo-файл автоматически создан программой Vim 9.1.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение параметра 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Журнал командной строки (от новых к старым):
+
+# Журнал поисковой строки (от новых к старым):
+
+# Журнал вычислений (от новых к старым):
+
+# Журнал строки ввода (от новых к старым):
+
+# Журнал команд отладки (от новых к старым):
+
+# Регистры:
+
+# Журнал общих закладок:
+'0  1  0  ~/lab13/sync
+|4,48,1,0,1728993215,"~/lab13/sync"
+'1  1  0  ~/lab13/sync
+|4,49,1,0,1728993113,"~/lab13/sync"
+'2  1  0  ~/lab13/task3
+|4,50,1,0,1727771950,"~/lab13/task3"
+'3  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,51,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+'4  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,52,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+'5  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,53,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+'6  1  0  ~/.cache/.fr-H8NZU2/Lab1_3/ex1/task2
+|4,54,1,0,1727726442,"~/.cache/.fr-H8NZU2/Lab1_3/ex1/task2"
+'7  13  77  ~/.cache/.fr-9HZXU2/Lab1_3/ex1/task2
+|4,55,13,77,1727726432,"~/.cache/.fr-9HZXU2/Lab1_3/ex1/task2"
+'8  1  0  ~/lab12/script16
+|4,56,1,0,1727202862,"~/lab12/script16"
+'9  1  0  ~/lab12/script8
+|4,57,1,0,1727201140,"~/lab12/script8"
+
+# Журнал переходов (в начале более новые):
+-'  1  0  ~/lab13/sync
+|4,39,1,0,1728993215,"~/lab13/sync"
+-'  1  0  ~/lab13/sync
+|4,39,1,0,1728993113,"~/lab13/sync"
+-'  1  0  ~/lab13/task3
+|4,39,1,0,1727771950,"~/lab13/task3"
+-'  1  0  ~/lab13/task3
+|4,39,1,0,1727771950,"~/lab13/task3"
+-'  1  0  ~/lab13/task3
+|4,39,1,0,1727771950,"~/lab13/task3"
+-'  1  0  ~/lab13/task3
+|4,39,1,0,1727771950,"~/lab13/task3"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  16  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,16,0,1727728967,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+|4,39,1,0,1727728965,"~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+|4,39,1,0,1727728630,"~/.cache/.fr-VHGUU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  134  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,134,0,1727728249,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+-'  1  0  ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+|4,39,1,0,1727728240,"~/.cache/.fr-3UKNU2/Lab1_3/ex2/task"
+
+# Журнал локальных закладок (от новых к старым):
+
+> ~/lab13/sync
+	*	1728993201	0
+	"	1	0
+
+> ~/lab13/task3
+	*	1727771948	0
+	"	1	0
+
+> ~/.cache/.fr-Y3ASU2/Lab1_3/ex2/task
+	*	1727728966	0
+	"	16	0
+
+> ~/.cache/.fr-VHGUU2/Lab1_3/ex2/task
+	*	1727728628	0
+	"	1	0
+
+> ~/.cache/.fr-3UKNU2/Lab1_3/ex2/task
+	*	1727728248	0
+	"	134	0
+
+> ~/.cache/.fr-H8NZU2/Lab1_3/ex1/task2
+	*	1727726439	0
+	"	1	0
+
+> ~/.cache/.fr-9HZXU2/Lab1_3/ex1/task2
+	*	1727726430	0
+	"	13	77
+	.	13	0
+	+	13	0
+
+> ~/lab12/script16
+	*	1727202861	0
+	"	1	0
+
+> ~/lab12/script8
+	*	1727201137	0
+	"	1	0
+
+> ~/lab12/script4
+	*	1727193205	0
+	"	1	0
+
+> ~/lab12/script1
+	*	1727192438	0
+	"	1	0
+
+> ~/folder/file1.txt
+	*	1726569290	0
+	"	56	0

@@ -1,0 +1,12 @@
+150:male
+19:
+20:
+21:
+22:
+50:female
+50:male
+70:female
+Atomova:
+Mahonina:
+Petrov:
+Svirzhevskaya:

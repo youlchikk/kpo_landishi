@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.gedit.desktop" score="748.748046875" last-seen="1728993253"/>
+    <application id="gnome-initial-setup.desktop" score="0.0224609375" last-seen="1725984179"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1728381133"/>
+    <application id="org.gnome.Terminal.desktop" score="4918.787353515625" last-seen="1728993475"/>
+    <application id="libreoffice-writer.desktop" score="2.203857421875" last-seen="1728381236"/>
+    <application id="org.gnome.Settings.desktop" score="65.442138671875" last-seen="1728990735"/>
+    <application id="org.gnome.Nautilus.desktop" score="126.09326171875" last-seen="1728993281"/>
+    <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
+    <application id="update-manager.desktop" score="28.001953125" last-seen="1728985404"/>
+    <application id="firefox_firefox.desktop" score="4.260009765625" last-seen="1728985951"/>
+    <application id="org.gnome.FileRoller.desktop" score="4.375" last-seen="1728991993"/>
+    <application id="telegram-desktop_telegram-desktop.desktop" score="18237.8349609375" last-seen="1728993255"/>
+    <application id="libreoffice-impress.desktop" score="0.000732421875" last-seen="1725984280"/>
+    <application id="org.gnome.SystemMonitor.desktop" score="0.000244140625" last-seen="1725984533"/>
+    <application id="org.gnome.clocks.desktop" score="0.00146484375" last-seen="1725984664"/>
+    <application id="gnome-keyboard-panel.desktop" score="0" last-seen="0"/>
+    <application id="snap-store_snap-store.desktop" score="0.010986328125" last-seen="1725985087"/>
+    <application id="org.gnome.TextEditor.desktop" score="9.6337890625" last-seen="1728403036"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="0.000244140625" last-seen="1728990736"/>
+    <application id="libreoffice-calc.desktop" score="0.00048828125" last-seen="1725985454"/>
+  </context>
+</application-state>

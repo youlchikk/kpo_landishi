@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sort basa.txt > t11.txt
+cat t11.txt > basa.txt
+
+echo "Данные файла отсортирваны и сохранены в basa.txt"

@@ -1,0 +1,4 @@
+{"timestamp":61190744,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1728985910068"}}
+{"timestamp":61191583,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1728985910907","feature":"addAnImageInPDF"}}
+{"timestamp":61191584,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1728985910909"}}
+{"timestamp":61192136,"category":"urlbar","name":"abandonment","extra":{"n_chars":"0","n_words":"0","interaction":"typed","sap":"urlbar_newtab","abandonment_type":"blur","results":"tip_onboard","search_engine_default_id":"google-ubuntu-sn","search_mode":"","n_results":"1","glean_timestamp":"1728985911461","actions":"none","groups":"heuristic"}}

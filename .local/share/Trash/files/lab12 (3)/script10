@@ -1,0 +1,9 @@
+#!/bin/bash
+
+file1="basa.txt"
+file2="t11.txt"
+output="sorted.txt"
+
+cat "$file1" "$file2" | tr ' ' '\n' | sort | uniq -u > "$output"
+
+echo "Отсортированный файл с уникальными словами создан: $output"S
